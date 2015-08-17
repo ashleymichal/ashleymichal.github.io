@@ -14,7 +14,7 @@ That person's solution sort of forgot that if the shift point was > 8, and the l
 Then there's the "n.times { shift one }" approach, which again works, but seems not so elegant.
 
 I like this one the best:
-
+```ruby
 def caesar_cypher(string, shiftnum = 0)    
     outstring = ''
     string.each_byte do |x|
@@ -31,7 +31,7 @@ def caesar_cypher(string, shiftnum = 0)
     end
     return outstring
 end
-
+```
 it still repeats, but it seems to be the most clever use of the underlying values, and the use of each_byte is nice and clean as opposed to #unpack and #pack
 
 19:21 - I had to move on from Caesar Cipher to Stock Picker and Substrings.  These went way better.  Just for the record, future you, today got way better.  And then I went back with a cooler mind and re-did Caesar Cipher based on what I learned and what I had read from other people's solutions.  It seems that I could use work on strings, and that I'm not a hundred percent sure how to utilize regular expressions.  We'll get there though.

@@ -7,7 +7,7 @@ title: The Speed of the Internet
 
 Speaking of which, I need to remember to enter the following when I'm done with this project:
 
-		rvm use ruby-2.2.1
+		`rvm use ruby-2.2.1`
 		
 Or I'll be stuck in the past!
 
