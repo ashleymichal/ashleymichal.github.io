@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TODO
+title: The Speed of the Internet
 ---
 
 13:42 - Today I learned how fast the word changes.  Trying to use "Learn Ruby" with test-driven development strategy.  Super excited.  Only problem, this curriculum uses a deprecated version of rspec, rails, AND ruby.  So gonna have to downgrade all.  Also rake seems to be failing. Wooooooo.

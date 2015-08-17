@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TODO
+title: Roadblock
 ---
 
 13:57 - Yesterday things got frustrating.  I shouldn't be surprised.  It's not an easy thing.  But the Caesar cipher... it's not that hard to implement, really.  I just think that the way I've done it is shitty.  I can't tell whether it is more productive to keep banging my head against the wall, or look at other solutions to identify ideas I didn't have.
