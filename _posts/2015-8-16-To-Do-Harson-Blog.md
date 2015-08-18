@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ToDo - Harson Blog, etc.
+title: TODO
 ---
 
 09:59 - TODO today:

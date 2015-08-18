@@ -14,6 +14,7 @@ Today was also the day I had said would be when I reassess the money situation. 
 I don't think it will take me 10 months to find a job.  I think it might take something like that amount of time to find a job in web development.  The Code Newbie podcast is super encouraging, though.  Like the one I listened to today: 8 months from 0-employed?!  Less than, really.  I really do think that if I put in the time every day and combine that with the help from the career coach, I can do this.  I just have to be... I don't want to say fearless, but certainly more confident and just keep plugging away.
 
 From today's meeting, I think I know what I want from my job, I just need to write it down.
+
 1. I want to be challenged
 2. I want to work on something/for a company that helps people
 3. I want to work on a team, but also make individual contributions to the team.

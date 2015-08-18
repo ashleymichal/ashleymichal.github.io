@@ -11,7 +11,7 @@ One nice solution was to use % 26 to keep the shift point inside the alphabet.  
 Really just maintaining case has been the hardest part, because it feels like as soon as you do that, you're either repeating code or calling the same sub-routine again.  Which is fine, if you do the second one.
 That person's solution sort of forgot that if the shift point was > 8, and the letter was lowercase, it could still accidentally get pushed into not only the wrong letter, but made uppercase.
 
-Then there's the n.times `{ shift one }` approach, which again works, but seems not so elegant.
+Then there's the `n.times { shift one }` approach, which again works, but seems not so elegant.
 
 I like this one the best:
 
