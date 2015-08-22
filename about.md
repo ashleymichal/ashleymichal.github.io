@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Formerly a wrench-swinging stagehand, I've retired my techie toolbag in favor of a digital one. This is an account of the transition from cable-running New York City technician to code-crushing Austin web developer. Wish me luck!
 
 ### Contact me
 
