@@ -10,3 +10,5 @@ One of the biggest differences I've noticed between their approach and the appro
 So now I'm doing it again, but this time with Ruby. The Fibonacci sequence, merge sort... it's all really familiar and yet still super challenging. It really is a different way of thinking, and while I recognize the value in just that, flexing your brain muscles, I'm also put off by the seeming futility of this exercise: will I just lose these concepts to the cob-webby junk drawer of my mind until some hiring manager decides to make me solve a white board problem?
 
 Who knows!!! All I know is that after I solve these CS problems, it's on to some sweet, sweet RSPEC and, hopefully before my next meeting, the next section: Rails!
+
+16:08 - Fibonacci and Merge-Sort complete. Boom. Suck it, recursion.
