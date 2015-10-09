@@ -12,3 +12,5 @@ So now I'm doing it again, but this time with Ruby. The Fibonacci sequence, merg
 Who knows!!! All I know is that after I solve these CS problems, it's on to some sweet, sweet RSPEC and, hopefully before my next meeting, the next section: Rails!
 
 16:08 - Fibonacci and Merge-Sort complete. Boom. Suck it, recursion.
+
+18:25 - Just started the Binary Search Tree project. The mental picture is clear, but the path to the code isn't. It's Friday night. I'm calling it. Time for video games.
