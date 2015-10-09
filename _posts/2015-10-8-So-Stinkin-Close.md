@@ -16,3 +16,7 @@ And the server *does* work. It takes in the json, it parses it, it fills in the 
 I am also lamenting that I still have to go through CS before I get to the (super light weight) RSPEC section of the Ruby chapter. I want the RSPEC skillz most of all so I can stop flailing around with manual tests.
 
 I mean, it's not like I have instructors. What's the point of being self-taught if you can't skip around the content just a little bit?
+
+21:35 - Document your troubleshooting, children. Because if you don't, you might end up running the same method twice. And if you're daft enough, you may wind up putting the output of the first method call in as an argument to the second method call. /facepalm/
+
+So that project is complete... It could likely use some refactoring, but I'm going to leave that to Morning Ashley.
