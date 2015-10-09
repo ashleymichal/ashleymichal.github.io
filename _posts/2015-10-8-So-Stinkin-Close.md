@@ -7,7 +7,7 @@ title: So. Stinkin. Close.
 
 Since I posted, I have finished Hangman (finally) and the Twitter SpamBot (which has more followers than my normal Twitter handle...)
 
-Now I'm, no joke, ONE LINE OF CODE from finishing my simple_server/tiny_browser project. So. Stinkin'. Close.
+Now I'm, no joke, ONE LINE OF CODE from finishing my [simple_server/tiny_browser](http://www.theodinproject.com/ruby-programming/ruby-on-the-web) project. So. Stinkin'. Close.
 
 I got through the issue of pulling in the POST request content (#gets takes an integer parameter 'limit' that you can set using the 'content-length' field of your request). I even figured out that the JSON module doesn't care about your Hash symbols (there is an argument, yes, but for now I'm bypassing for the sake of completion. Refactoring will come when the basic server works).
 
