@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails Rails Rails
+title: Rails Rails Rails again
 ---
 
 19:30 - I'm rewriting the tests in [Michael Hartl's Rails Tutorial](https://railstutorial.org "Rails Tutorial") in RSpec, starting in Chapter 3, which focuses on the Static Pages controller.
