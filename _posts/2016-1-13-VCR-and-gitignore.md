@@ -40,3 +40,7 @@ Inevitably every problem I find a solution to raises another question and today 
 If, like I did, you run into this problem mid-project, git rm also becomes an important command: the command is identical to its Unix counterpart, except that it only removes the file/directory in question from git's scope, which is necessary at this stage because if you have already been tracking these files, just updating your .gitignore file isn't enough, you need to manually remove them from git's tracking system. This goes for testing/development environments, databases, and logs, as well as packages.
 
 While I was already aware of these two lessons, sometimes it takes an experience like this to really cement theoretical knowledge into practical knowledge.
+
+16:51 - Finished this round of testing. Woof.
+
+Did you know: when you call the 'create' action and render the 'new' template due to an if/else branch, you actually stay on the create path (which is the same as your index path by default). This makes it difficult to test in Cucumber that your controller is behaving properly based on path alone; for now I patched it telling Capybara to look for the "Create New Movie" header, but attaching conditions to views seems brittle and stupid so.... gonna have to look for a better solution to this. Perhaps in this case it is better to be satisfied with the unit test in RSpec?
