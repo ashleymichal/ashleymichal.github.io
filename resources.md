@@ -10,6 +10,10 @@ The internet is a vast ocean of information, and especially as a [CodeNewbie](ht
 
 ### Tutorials
 
+[How I built this blog](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
+[Learn Chef](https://learn.chef.io/)
+
 ### Web Courses
 
 [HarvardX's CS50](http://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
