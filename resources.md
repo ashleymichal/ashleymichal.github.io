@@ -23,4 +23,11 @@ The internet is a vast ocean of information, and especially as a [CodeNewbie](ht
 ### Dead Trees
 
 
+### Contribute to Projects!
+
+[Dev Post](http://devpost.com/)
+
+[Code Triage](http://codetriage.com)
+
+
 <!-- [LINK_TEXT](LINK_URL) -->
