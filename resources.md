@@ -29,5 +29,9 @@ The internet is a vast ocean of information, and especially as a [CodeNewbie](ht
 
 [Code Triage](http://codetriage.com)
 
+### Also Awesome
+
+[Tech Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+
 
 <!-- [LINK_TEXT](LINK_URL) -->
