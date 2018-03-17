@@ -16,12 +16,19 @@ The internet is a vast ocean of information, and especially as a [CodeNewbie](ht
 
 ### Web Courses
 
-[HarvardX's CS50](http://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+[MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - MIT has actually added two more recent versions of this course since I took it in 2011, and they have also ported the curriculum over to [edX](https://www.edx.org/), but I rather liked this course and the computer science principles they cover aren't the kind that go out of date quickly. The language in use here is [Python 2.7](https://www.python.org/), but what you're really here for is the computer science fundamentals. Big O notation, some basic algorithms, and the fundamentals of object-oriented programming are all covered in this course, which features problem sets as well as lectures. Big disclaimer: like a lot of courses, I never actually finished this one.
 
-[The Odin Project](http://www.theodinproject.com)
+[HarvardX's CS50](http://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's course has way higher production value that MIT's, so if you find the standard, dry university-style lecture unengaging, this might be the course for you. The curriculum is peppered with short YouTube videos on concepts such as sorting algorithms led by graduate students and assisted by some nice visuals. Most of the same CS fundamentals you're looking for in the MIT course are here, but the language graduates from block coding with Scratch to C, as opposed to the MIT course which starts you in Python and sticks with it for the whole course.
 
-### Dead Trees
+[The Odin Project](http://www.theodinproject.com) - This bundle of curated resources has come a long way since I first stumbled upon it in 2015, and the accompanying remote bootcamp is probably what I would have gone with had I decided to throw down the cash at the time. The "Web Development 101" is my favorite "getting started" resource. It's comprehensive, it's self-paced, it's integrated (you will use git and Github for every project!) The reason I love this curriculum is because it is so project-driven. Every section comes with a huge chunk of reading materials from across the internet: blog posts, Codecademy tutorials, reference examples, which serve both to inform and to broaden your own personal list of resources. But the larger sections are also peppered with projects that require you to put your new knowledge to work immediately, starting from a blank editor. "Replicate the Google landing page" they say. How hard could it be? You don't know until you try...
 
+### Books
+
+[Text Processing with Ruby](https://pragprog.com/book/rmtpruby/text-processing-with-ruby) - I learned about this book from an episode of Ruby Rogues featuring the author, [Rob Miller](). I highly recommend the episode itself, but the book is a short and sweet primer on the three main steps of text processing: parsing, analyzing, and reporting. I especially love the chapter that dives into Ruby on the Command Line. He also goes into some detail about web scraping using Nokogiri. If you are stumped for project ideas, this book will open up a whole world of them that are vastly more interesting to chew on than another damn blog app.
+
+### References
+
+[Mozilla Developer Network]() - This is _the_ authority on HTML, CSS, and browser-based Javascript. There are tutorials on everything web, API references, and articles. I end up here several times a week, and have turned into kind of a Mozilla fangirl.
 
 ### Contribute to Projects!
 
