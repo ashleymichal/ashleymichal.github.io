@@ -28,7 +28,9 @@ The internet is a vast ocean of information, and especially as a [CodeNewbie](ht
 
 ### References
 
-[Mozilla Developer Network]() - This is _the_ authority on HTML, CSS, and browser-based Javascript. There are tutorials on everything web, API references, and articles. I end up here several times a week, and have turned into kind of a Mozilla fangirl.
+[Mozilla Developer Network](https://developer.mozilla.org) - This is _the_ authority on HTML, CSS, and browser-based Javascript. There are tutorials on everything web, API references, and articles. I end up here several times a week, and have turned into kind of a Mozilla fangirl.
+
+[Online Computer Science Glossary](https://www.quickbase.com/articles/online-computer-science-glossary) - A student from AI Horizon's STEM Juniors club sent this to me in an email, and I think it's just great. Computer Science as a discipline covers a lot and it can be tricky to know where to start with such a broad, abstract domain. This page outlines and defines some core concepts in computer science to give you the lay of the land, and I think it's a great jumping off point to start understanding and exploring just what is happening when we run our programs.
 
 ### Contribute to Projects!
 
