@@ -32,6 +32,10 @@ The internet is a vast ocean of information, and especially as a [CodeNewbie](ht
 
 [Online Computer Science Glossary](https://www.quickbase.com/articles/online-computer-science-glossary) - A student from AI Horizon's STEM Juniors club sent this to me in an email, and I think it's just great. Computer Science as a discipline covers a lot and it can be tricky to know where to start with such a broad, abstract domain. This page outlines and defines some core concepts in computer science to give you the lay of the land, and I think it's a great jumping off point to start understanding and exploring just what is happening when we run our programs.
 
+### Blog Posts
+
+[A Beginner’s Guide to Coding and Programming](https://praxent.com/blog/beginners-guide-to-coding-programming) by Praxent - Sent to me by Liza from another STEM program for kids. She especially enjoyed the games and activities listed at the bottom of the post. Thanks Liza!
+
 ### Contribute to Projects!
 
 [Dev Post](http://devpost.com/)
